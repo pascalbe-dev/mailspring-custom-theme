@@ -1,10 +1,9 @@
 {
-  "name": "mailspring-nord-theme",
-  "title": "a dark bluish theme",
-  "displayName": "Nord",
+  "name": "mailspring-pascalbe",
+  "displayName": "pascalbe",
   "theme": "ui",
   "version": "1.0.0",
-  "description": "A Nordic Theme for Mailspring!",
+  "description": "A personalized mailspring theme for pascalbe",
   "license": "GPL-3.0",
   "engines": {
     "mailspring": "*"
